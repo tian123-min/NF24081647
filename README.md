@@ -1,4 +1,3 @@
-# NF24081647
 This repository hosts the main code for generating the RF model and figures for "Data-driven nitrogen management benchmarks support China's wheat self-sufficiency by 2030".
 
 R version 4.2.0 (https://cran.r-project.org/bin/windows/base/) was used to aggregate and analyze the modeling results.
